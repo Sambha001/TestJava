@@ -1,1 +1,2 @@
  Hi , this is my first trial git repository.
+ hi this is sambhaji
